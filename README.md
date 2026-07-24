@@ -1,5 +1,5 @@
 # PostgreSQL & Python Database Operations (`psycopg3`)
-
+**View Interactive Report:** [Live HTML Report](https://ganitganit484.github.io/PostgreSQL-Python-Integration-and-Database-Operations/)
 This repository demonstrates relational database management, schema operations, and SQL querying via **Python** using the `psycopg3` library. 
 
 The project focuses on safe database interactions, handling edge cases, dynamic schema manipulation, and executing atomic SQL operations.
